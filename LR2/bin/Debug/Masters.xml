@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<ArrayOfMaster xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Master>
+    <Name>Иван</Name>
+    <Surname>Иванов</Surname>
+    <Birthday>1992-05-08T00:00:00</Birthday>
+    <PriceHour>1.2</PriceHour>
+    <Rating>3</Rating>
+    <Busy>0</Busy>
+  </Master>
+  <Master>
+    <Name>Андрей</Name>
+    <Surname>Юревич</Surname>
+    <Birthday>1999-01-05T00:00:00</Birthday>
+    <PriceHour>3.5</PriceHour>
+    <Rating>5</Rating>
+    <Busy>-1</Busy>
+    <Comment>Отличный мастер</Comment>
+  </Master>
+  <Master>
+    <Name>Максим</Name>
+    <Surname>Савенко</Surname>
+    <Birthday>1980-07-18T00:00:00</Birthday>
+    <PriceHour>2</PriceHour>
+    <Rating>4</Rating>
+    <Busy>0</Busy>
+  </Master>
+</ArrayOfMaster>

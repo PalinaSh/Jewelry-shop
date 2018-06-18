@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <Name>admin</Name>
+    <Surname>admin</Surname>
+    <Birthday>0001-01-01T00:00:00</Birthday>
+    <Orders />
+    <Basket />
+    <PriceAllOrders>15773.880000000007</PriceAllOrders>
+    <ID>0</ID>
+    <Login>admin</Login>
+    <Password>admin</Password>
+  </Client>
+  <Client>
+    <Name>Palina</Name>
+    <Surname>Sh</Surname>
+    <Birthday>1999-01-15T00:00:00</Birthday>
+    <Orders>
+      <Order>
+        <Master>
+          <Name>Андрей</Name>
+          <Surname>Юревич</Surname>
+          <Birthday>1999-01-05T00:00:00</Birthday>
+          <PriceHour>3.5</PriceHour>
+          <Rating>5</Rating>
+          <Busy>-1</Busy>
+          <Comment>Отличный мастер</Comment>
+        </Master>
+        <Jewelry>
+          <Name>Серебрянные серьги с нано-рубином, фианитом, рубином</Name>
+          <VenderCode>2-012-115</VenderCode>
+          <Type>
+            <NameOfJewerly>серьги</NameOfJewerly>
+            <JewerlyPrice>83</JewerlyPrice>
+            <Information>Под заказ</Information>
+          </Type>
+          <Kernel>
+            <Material>
+              <Name>рубин</Name>
+              <Weight>19</Weight>
+              <GrammPrice>17</GrammPrice>
+            </Material>
+            <KernelPrice>323</KernelPrice>
+          </Kernel>
+          <Basis>
+            <Material>
+              <Name>серебро</Name>
+              <Weight>26</Weight>
+              <GrammPrice>12</GrammPrice>
+            </Material>
+            <BasisPrice>312</BasisPrice>
+          </Basis>
+          <JewelryPrice>635</JewelryPrice>
+          <Brand>SOKOLOV</Brand>
+          <Complexity>2.7</Complexity>
+          <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\2-012-115.JPG</Image>
+          <NeedSize>0</NeedSize>
+        </Jewelry>
+        <Begin>2018-06-08T00:13:23.5045866+03:00</Begin>
+        <End>2018-06-14T00:13:23.5045866+03:00</End>
+        <Status>Заказ обрабатывается</Status>
+        <OrderPrice>644.45</OrderPrice>
+      </Order>
+    </Orders>
+    <Basket>
+      <Jewelry>
+        <Name>Комбинированные серьги с фианитом</Name>
+        <VenderCode>01-215289</VenderCode>
+        <Type>
+          <NameOfJewerly>серьги</NameOfJewerly>
+          <JewerlyPrice>134</JewerlyPrice>
+          <Information>В наличии в магазинах Минска</Information>
+        </Type>
+        <Kernel>
+          <Material>
+            <Name>рубин</Name>
+            <Weight>14</Weight>
+            <GrammPrice>8</GrammPrice>
+          </Material>
+          <KernelPrice>112</KernelPrice>
+        </Kernel>
+        <Basis>
+          <Material>
+            <Name>комбинированный</Name>
+            <Weight>23</Weight>
+            <GrammPrice>15</GrammPrice>
+          </Material>
+          <BasisPrice>345</BasisPrice>
+        </Basis>
+        <JewelryPrice>457</JewelryPrice>
+        <Brand>SOKOLOV</Brand>
+        <Complexity>0.9</Complexity>
+        <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\01-215289.JPG</Image>
+        <NeedSize>0</NeedSize>
+      </Jewelry>
+      <Jewelry>
+        <Name>Серебрянные серьги с нано-рубином, фианитом, рубином</Name>
+        <VenderCode>2-012-115</VenderCode>
+        <Type>
+          <NameOfJewerly>серьги</NameOfJewerly>
+          <JewerlyPrice>83</JewerlyPrice>
+          <Information>Под заказ</Information>
+        </Type>
+        <Kernel>
+          <Material>
+            <Name>рубин</Name>
+            <Weight>19</Weight>
+            <GrammPrice>17</GrammPrice>
+          </Material>
+          <KernelPrice>323</KernelPrice>
+        </Kernel>
+        <Basis>
+          <Material>
+            <Name>серебро</Name>
+            <Weight>26</Weight>
+            <GrammPrice>12</GrammPrice>
+          </Material>
+          <BasisPrice>312</BasisPrice>
+        </Basis>
+        <JewelryPrice>635</JewelryPrice>
+        <Brand>SOKOLOV</Brand>
+        <Complexity>2.7</Complexity>
+        <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\2-012-115.JPG</Image>
+        <NeedSize>0</NeedSize>
+      </Jewelry>
+      <Jewelry>
+        <Name>Серебрянные серьги с кварцем, сапфиром и фианитом</Name>
+        <VenderCode>2-012-108</VenderCode>
+        <Type>
+          <NameOfJewerly>серьги</NameOfJewerly>
+          <JewerlyPrice>60</JewerlyPrice>
+          <Information>В наличии в г.Калинковичи</Information>
+        </Type>
+        <Kernel>
+          <Material>
+            <Name>рубин</Name>
+            <Weight>22</Weight>
+            <GrammPrice>15</GrammPrice>
+          </Material>
+          <KernelPrice>330</KernelPrice>
+        </Kernel>
+        <Basis>
+          <Material>
+            <Name>серебро</Name>
+            <Weight>28</Weight>
+            <GrammPrice>12</GrammPrice>
+          </Material>
+          <BasisPrice>336</BasisPrice>
+        </Basis>
+        <JewelryPrice>666</JewelryPrice>
+        <Brand>SOKOLOV</Brand>
+        <Complexity>2.4</Complexity>
+        <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\2-012-108.JPG</Image>
+        <NeedSize>0</NeedSize>
+      </Jewelry>
+    </Basket>
+    <PriceAllOrders>16418.330000000005</PriceAllOrders>
+    <ID>268609</ID>
+    <Login>palina</Login>
+    <Password>palina</Password>
+  </Client>
+</ArrayOfClient>

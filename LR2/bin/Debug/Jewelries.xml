@@ -1,0 +1,783 @@
+<?xml version="1.0"?>
+<ArrayOfJewelry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Jewelry>
+    <Name>Комбинированное кольцо с фианитом</Name>
+    <VenderCode>01-114805</VenderCode>
+    <Type>
+      <NameOfJewerly>кольцо</NameOfJewerly>
+      <JewerlyPrice>200</JewerlyPrice>
+      <Information>Есть в магазинах: Минск, Гомель, Брест</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>сапфир</Name>
+        <Weight>12</Weight>
+        <GrammPrice>13</GrammPrice>
+      </Material>
+      <KernelPrice>156</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>комбинированный</Name>
+        <Weight>37</Weight>
+        <GrammPrice>17</GrammPrice>
+      </Material>
+      <BasisPrice>629</BasisPrice>
+    </Basis>
+    <JewelryPrice>785</JewelryPrice>
+    <Brand>Санис</Brand>
+    <Complexity>1.3</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\01-114805.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Золотые серьги с фианитом</Name>
+    <VenderCode>01-214781</VenderCode>
+    <Type>
+      <NameOfJewerly>серьги</NameOfJewerly>
+      <JewerlyPrice>100</JewerlyPrice>
+      <Information>Под заказ</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>рубин</Name>
+        <Weight>22</Weight>
+        <GrammPrice>6</GrammPrice>
+      </Material>
+      <KernelPrice>132</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>золото</Name>
+        <Weight>19</Weight>
+        <GrammPrice>12</GrammPrice>
+      </Material>
+      <BasisPrice>228</BasisPrice>
+    </Basis>
+    <JewelryPrice>360</JewelryPrice>
+    <Brand>SOKOLOV</Brand>
+    <Complexity>1.5</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\01-214781.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Комбинированные серьги с фианитом</Name>
+    <VenderCode>01-215289</VenderCode>
+    <Type>
+      <NameOfJewerly>серьги</NameOfJewerly>
+      <JewerlyPrice>134</JewerlyPrice>
+      <Information>В наличии в магазинах Минска</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>рубин</Name>
+        <Weight>14</Weight>
+        <GrammPrice>8</GrammPrice>
+      </Material>
+      <KernelPrice>112</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>комбинированный</Name>
+        <Weight>23</Weight>
+        <GrammPrice>15</GrammPrice>
+      </Material>
+      <BasisPrice>345</BasisPrice>
+    </Basis>
+    <JewelryPrice>457</JewelryPrice>
+    <Brand>SOKOLOV</Brand>
+    <Complexity>0.9</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\01-215289.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Золотая подвеска с фианитом</Name>
+    <VenderCode> 01-314333</VenderCode>
+    <Type>
+      <NameOfJewerly>подвеска</NameOfJewerly>
+      <JewerlyPrice>136</JewerlyPrice>
+      <Information>В наличии в г.Калинковичи</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>фианит</Name>
+        <Weight>18</Weight>
+        <GrammPrice>7</GrammPrice>
+      </Material>
+      <KernelPrice>126</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>золото</Name>
+        <Weight>25</Weight>
+        <GrammPrice>17</GrammPrice>
+      </Material>
+      <BasisPrice>425</BasisPrice>
+    </Basis>
+    <JewelryPrice>551</JewelryPrice>
+    <Brand>Zorka</Brand>
+    <Complexity>1.2</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\01-314333.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Серебрянные серьги с нано-рубином, фианитом, рубином</Name>
+    <VenderCode>2-012-115</VenderCode>
+    <Type>
+      <NameOfJewerly>серьги</NameOfJewerly>
+      <JewerlyPrice>83</JewerlyPrice>
+      <Information>Под заказ</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>рубин</Name>
+        <Weight>19</Weight>
+        <GrammPrice>17</GrammPrice>
+      </Material>
+      <KernelPrice>323</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>серебро</Name>
+        <Weight>26</Weight>
+        <GrammPrice>12</GrammPrice>
+      </Material>
+      <BasisPrice>312</BasisPrice>
+    </Basis>
+    <JewelryPrice>635</JewelryPrice>
+    <Brand>SOKOLOV</Brand>
+    <Complexity>2.7</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\2-012-115.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Серебрянные серьги с рубином и фианитом</Name>
+    <VenderCode>2-015-115</VenderCode>
+    <Type>
+      <NameOfJewerly>серьги</NameOfJewerly>
+      <JewerlyPrice>68</JewerlyPrice>
+      <Information>Под заказ</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>рубин</Name>
+        <Weight>23</Weight>
+        <GrammPrice>18</GrammPrice>
+      </Material>
+      <KernelPrice>414</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>серебро</Name>
+        <Weight>27</Weight>
+        <GrammPrice>12</GrammPrice>
+      </Material>
+      <BasisPrice>324</BasisPrice>
+    </Basis>
+    <JewelryPrice>738</JewelryPrice>
+    <Brand>SOKOLOV</Brand>
+    <Complexity>1.9</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\2-015-115.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Серебрянные серьги с фианитом</Name>
+    <VenderCode>31-210341</VenderCode>
+    <Type>
+      <NameOfJewerly>серьги</NameOfJewerly>
+      <JewerlyPrice>120</JewerlyPrice>
+      <Information>В наличии в магазинах Гомеля</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>рубин</Name>
+        <Weight>18</Weight>
+        <GrammPrice>10</GrammPrice>
+      </Material>
+      <KernelPrice>180</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>серебро</Name>
+        <Weight>18</Weight>
+        <GrammPrice>12</GrammPrice>
+      </Material>
+      <BasisPrice>216</BasisPrice>
+    </Basis>
+    <JewelryPrice>396</JewelryPrice>
+    <Brand>SOKOLOV</Brand>
+    <Complexity>0.8</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\31-210341.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Золотые серьги с фианитом</Name>
+    <VenderCode>41-210041</VenderCode>
+    <Type>
+      <NameOfJewerly>серьги</NameOfJewerly>
+      <JewerlyPrice>183</JewerlyPrice>
+      <Information>Под заказ</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>рубин</Name>
+        <Weight>17</Weight>
+        <GrammPrice>10</GrammPrice>
+      </Material>
+      <KernelPrice>170</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>золото</Name>
+        <Weight>36</Weight>
+        <GrammPrice>22</GrammPrice>
+      </Material>
+      <BasisPrice>792</BasisPrice>
+    </Basis>
+    <JewelryPrice>962</JewelryPrice>
+    <Brand>SOKOLOV</Brand>
+    <Complexity>1.7</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\41-210041.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Золотая подвеска с жемчугом и фианитом</Name>
+    <VenderCode>0084-34</VenderCode>
+    <Type>
+      <NameOfJewerly>подвеска</NameOfJewerly>
+      <JewerlyPrice>136</JewerlyPrice>
+      <Information>Под заказ</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>фианит</Name>
+        <Weight>5</Weight>
+        <GrammPrice>10</GrammPrice>
+      </Material>
+      <KernelPrice>50</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>золотой</Name>
+        <Weight>38</Weight>
+        <GrammPrice>16</GrammPrice>
+      </Material>
+      <BasisPrice>608</BasisPrice>
+    </Basis>
+    <JewelryPrice>658</JewelryPrice>
+    <Brand>Zorka</Brand>
+    <Complexity>2.2</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\0084-34.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Комбинированная подвеска с жемчугом и фианитом</Name>
+    <VenderCode>0093-34</VenderCode>
+    <Type>
+      <NameOfJewerly>подвеска</NameOfJewerly>
+      <JewerlyPrice>193</JewerlyPrice>
+      <Information>Под заказ</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>фианит</Name>
+        <Weight>12</Weight>
+        <GrammPrice>10</GrammPrice>
+      </Material>
+      <KernelPrice>120</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>комбинированный</Name>
+        <Weight>22</Weight>
+        <GrammPrice>16</GrammPrice>
+      </Material>
+      <BasisPrice>352</BasisPrice>
+    </Basis>
+    <JewelryPrice>472</JewelryPrice>
+    <Brand>Zorka</Brand>
+    <Complexity>1.4</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\0093-34.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Серебрянное кольцо с фианитом</Name>
+    <VenderCode>2445-3</VenderCode>
+    <Type>
+      <NameOfJewerly>кольцо</NameOfJewerly>
+      <JewerlyPrice>176</JewerlyPrice>
+      <Information>В наличии в магазинах г. Гродно</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>сапфир</Name>
+        <Weight>16</Weight>
+        <GrammPrice>10</GrammPrice>
+      </Material>
+      <KernelPrice>160</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>серебро</Name>
+        <Weight>49</Weight>
+        <GrammPrice>12</GrammPrice>
+      </Material>
+      <BasisPrice>588</BasisPrice>
+    </Basis>
+    <JewelryPrice>748</JewelryPrice>
+    <Brand>Санис</Brand>
+    <Complexity>2.4</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\2445-3.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Золотые серьги с фианитом</Name>
+    <VenderCode>2952-4</VenderCode>
+    <Type>
+      <NameOfJewerly>серьги</NameOfJewerly>
+      <JewerlyPrice>138</JewerlyPrice>
+      <Information>В наличии в магазинах г. Бобруйска</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>рубин</Name>
+        <Weight>24</Weight>
+        <GrammPrice>10</GrammPrice>
+      </Material>
+      <KernelPrice>240</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>золото</Name>
+        <Weight>29</Weight>
+        <GrammPrice>18</GrammPrice>
+      </Material>
+      <BasisPrice>522</BasisPrice>
+    </Basis>
+    <JewelryPrice>762</JewelryPrice>
+    <Brand>SOKOLOV</Brand>
+    <Complexity>3.4</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\2952-4.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Комбинированные серьги с фианитом</Name>
+    <VenderCode>3510-4</VenderCode>
+    <Type>
+      <NameOfJewerly>серьги</NameOfJewerly>
+      <JewerlyPrice>176</JewerlyPrice>
+      <Information>Под заказ</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>рубин</Name>
+        <Weight>27</Weight>
+        <GrammPrice>10</GrammPrice>
+      </Material>
+      <KernelPrice>270</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>комбинированный</Name>
+        <Weight>29</Weight>
+        <GrammPrice>16</GrammPrice>
+      </Material>
+      <BasisPrice>464</BasisPrice>
+    </Basis>
+    <JewelryPrice>734</JewelryPrice>
+    <Brand>SOKOLOV</Brand>
+    <Complexity>2.1</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\3510-4.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Золотые серьги с фианитом</Name>
+    <VenderCode>4101-4</VenderCode>
+    <Type>
+      <NameOfJewerly>серьги</NameOfJewerly>
+      <JewerlyPrice>92</JewerlyPrice>
+      <Information>На складе</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>рубин</Name>
+        <Weight>17</Weight>
+        <GrammPrice>10</GrammPrice>
+      </Material>
+      <KernelPrice>170</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>золото</Name>
+        <Weight>28</Weight>
+        <GrammPrice>18</GrammPrice>
+      </Material>
+      <BasisPrice>504</BasisPrice>
+    </Basis>
+    <JewelryPrice>674</JewelryPrice>
+    <Brand>SOKOLOV</Brand>
+    <Complexity>1.6</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\4101-4.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Обручальное кольцо</Name>
+    <VenderCode>154007</VenderCode>
+    <Type>
+      <NameOfJewerly>кольцо</NameOfJewerly>
+      <JewerlyPrice>40</JewerlyPrice>
+      <Information>Изготовление под заказ</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>сапфир</Name>
+        <Weight>5</Weight>
+        <GrammPrice>10</GrammPrice>
+      </Material>
+      <KernelPrice>50</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>золото</Name>
+        <Weight>28</Weight>
+        <GrammPrice>16</GrammPrice>
+      </Material>
+      <BasisPrice>448</BasisPrice>
+    </Basis>
+    <JewelryPrice>498</JewelryPrice>
+    <Brand>Санис</Brand>
+    <Complexity>0.5</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\154007.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Серебрянные серьги с кварцем, сапфиром и фианитом</Name>
+    <VenderCode>2-012-108</VenderCode>
+    <Type>
+      <NameOfJewerly>серьги</NameOfJewerly>
+      <JewerlyPrice>60</JewerlyPrice>
+      <Information>В наличии в г.Калинковичи</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>рубин</Name>
+        <Weight>22</Weight>
+        <GrammPrice>15</GrammPrice>
+      </Material>
+      <KernelPrice>330</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>серебро</Name>
+        <Weight>28</Weight>
+        <GrammPrice>12</GrammPrice>
+      </Material>
+      <BasisPrice>336</BasisPrice>
+    </Basis>
+    <JewelryPrice>666</JewelryPrice>
+    <Brand>SOKOLOV</Brand>
+    <Complexity>2.4</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\2-012-108.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Золотое кольцо с сапфиром и фианитом</Name>
+    <VenderCode>714739</VenderCode>
+    <Type>
+      <NameOfJewerly>кольцо</NameOfJewerly>
+      <JewerlyPrice>398</JewerlyPrice>
+      <Information>В наличии в магазинах г.Житковичи</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>сапфир</Name>
+        <Weight>26</Weight>
+        <GrammPrice>19</GrammPrice>
+      </Material>
+      <KernelPrice>494</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>золото</Name>
+        <Weight>34</Weight>
+        <GrammPrice>18</GrammPrice>
+      </Material>
+      <BasisPrice>612</BasisPrice>
+    </Basis>
+    <JewelryPrice>1106</JewelryPrice>
+    <Brand>Санис</Brand>
+    <Complexity>3</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\714739.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Золотое кольцо с сапфиром</Name>
+    <VenderCode>2011030</VenderCode>
+    <Type>
+      <NameOfJewerly>кольцо</NameOfJewerly>
+      <JewerlyPrice>507</JewerlyPrice>
+      <Information>В наличии в магазинах г.Гродно</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>сапфир</Name>
+        <Weight>14</Weight>
+        <GrammPrice>18</GrammPrice>
+      </Material>
+      <KernelPrice>252</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>золото</Name>
+        <Weight>36</Weight>
+        <GrammPrice>18</GrammPrice>
+      </Material>
+      <BasisPrice>648</BasisPrice>
+    </Basis>
+    <JewelryPrice>900</JewelryPrice>
+    <Brand>Санис</Brand>
+    <Complexity>42</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\2011030.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Серебрянное кольцо с сапфиром</Name>
+    <VenderCode>62010006</VenderCode>
+    <Type>
+      <NameOfJewerly>кольцо</NameOfJewerly>
+      <JewerlyPrice>20</JewerlyPrice>
+      <Information>В наличии в г.Пинск</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>сапфир</Name>
+        <Weight>12</Weight>
+        <GrammPrice>17</GrammPrice>
+      </Material>
+      <KernelPrice>204</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>серебро</Name>
+        <Weight>38</Weight>
+        <GrammPrice>18</GrammPrice>
+      </Material>
+      <BasisPrice>684</BasisPrice>
+    </Basis>
+    <JewelryPrice>888</JewelryPrice>
+    <Brand>Санис</Brand>
+    <Complexity>32</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\62010006.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Комбинированное кольцо с фианитом</Name>
+    <VenderCode>9010049</VenderCode>
+    <Type>
+      <NameOfJewerly>кольцо</NameOfJewerly>
+      <JewerlyPrice>102</JewerlyPrice>
+      <Information>Под заказ</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>сапфир</Name>
+        <Weight>12</Weight>
+        <GrammPrice>10</GrammPrice>
+      </Material>
+      <KernelPrice>120</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>комбинированный</Name>
+        <Weight>36</Weight>
+        <GrammPrice>15</GrammPrice>
+      </Material>
+      <BasisPrice>540</BasisPrice>
+    </Basis>
+    <JewelryPrice>660</JewelryPrice>
+    <Brand>Санис</Brand>
+    <Complexity>17</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\9010049.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Золотая подвеска с фианитом</Name>
+    <VenderCode>731585</VenderCode>
+    <Type>
+      <NameOfJewerly>подвеска</NameOfJewerly>
+      <JewerlyPrice>279</JewerlyPrice>
+      <Information>В наличии в магазинах г.Мозыря</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>фианит</Name>
+        <Weight>26</Weight>
+        <GrammPrice>10</GrammPrice>
+      </Material>
+      <KernelPrice>260</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>золото</Name>
+        <Weight>39</Weight>
+        <GrammPrice>18</GrammPrice>
+      </Material>
+      <BasisPrice>702</BasisPrice>
+    </Basis>
+    <JewelryPrice>962</JewelryPrice>
+    <Brand>Zorka</Brand>
+    <Complexity>34</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\731585.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Золотая подвеска с голубым топазом и фианитом</Name>
+    <VenderCode>731694</VenderCode>
+    <Type>
+      <NameOfJewerly>подвеска</NameOfJewerly>
+      <JewerlyPrice>72</JewerlyPrice>
+      <Information>Под заказ</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>фианит</Name>
+        <Weight>14</Weight>
+        <GrammPrice>10</GrammPrice>
+      </Material>
+      <KernelPrice>140</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>золото</Name>
+        <Weight>21</Weight>
+        <GrammPrice>17</GrammPrice>
+      </Material>
+      <BasisPrice>357</BasisPrice>
+    </Basis>
+    <JewelryPrice>497</JewelryPrice>
+    <Brand>Zorka</Brand>
+    <Complexity>41</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\731694.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Золотая подвеска с жемчугом и фианитом</Name>
+    <VenderCode>793057</VenderCode>
+    <Type>
+      <NameOfJewerly>подвеска</NameOfJewerly>
+      <JewerlyPrice>107</JewerlyPrice>
+      <Information>В наличии в магазинах Гродно и Минска</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>фианит</Name>
+        <Weight>17</Weight>
+        <GrammPrice>10</GrammPrice>
+      </Material>
+      <KernelPrice>170</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>золото</Name>
+        <Weight>32</Weight>
+        <GrammPrice>18</GrammPrice>
+      </Material>
+      <BasisPrice>576</BasisPrice>
+    </Basis>
+    <JewelryPrice>746</JewelryPrice>
+    <Brand>Zorka</Brand>
+    <Complexity>32</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\793057.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Золотые серьги-гвоздики с фианитом</Name>
+    <VenderCode>725289</VenderCode>
+    <Type>
+      <NameOfJewerly>серьги</NameOfJewerly>
+      <JewerlyPrice>132</JewerlyPrice>
+      <Information>Под заказ</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>рубин</Name>
+        <Weight>20</Weight>
+        <GrammPrice>10</GrammPrice>
+      </Material>
+      <KernelPrice>200</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>золото</Name>
+        <Weight>28</Weight>
+        <GrammPrice>12</GrammPrice>
+      </Material>
+      <BasisPrice>336</BasisPrice>
+    </Basis>
+    <JewelryPrice>536</JewelryPrice>
+    <Brand>SOKOLOV</Brand>
+    <Complexity>27</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\725289.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Золотые серьги с сапфиром</Name>
+    <VenderCode>2020823</VenderCode>
+    <Type>
+      <NameOfJewerly>серьги</NameOfJewerly>
+      <JewerlyPrice>698</JewerlyPrice>
+      <Information>В наличии в магазинах г.Могилёва</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>рубин</Name>
+        <Weight>24</Weight>
+        <GrammPrice>19</GrammPrice>
+      </Material>
+      <KernelPrice>456</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>золото</Name>
+        <Weight>41</Weight>
+        <GrammPrice>17</GrammPrice>
+      </Material>
+      <BasisPrice>697</BasisPrice>
+    </Basis>
+    <JewelryPrice>1153</JewelryPrice>
+    <Brand>SOKOLOV</Brand>
+    <Complexity>29</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\2020823.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+  <Jewelry>
+    <Name>Золотые серьги с рубином</Name>
+    <VenderCode>6029025</VenderCode>
+    <Type>
+      <NameOfJewerly>серьги</NameOfJewerly>
+      <JewerlyPrice>2600</JewerlyPrice>
+      <Information>В наличии в Минске</Information>
+    </Type>
+    <Kernel>
+      <Material>
+        <Name>рубин</Name>
+        <Weight>32</Weight>
+        <GrammPrice>19</GrammPrice>
+      </Material>
+      <KernelPrice>608</KernelPrice>
+    </Kernel>
+    <Basis>
+      <Material>
+        <Name>золото</Name>
+        <Weight>23</Weight>
+        <GrammPrice>18</GrammPrice>
+      </Material>
+      <BasisPrice>414</BasisPrice>
+    </Basis>
+    <JewelryPrice>1022</JewelryPrice>
+    <Brand>SOKOLOV</Brand>
+    <Complexity>4</Complexity>
+    <Image>D:\Palina\cем 4\ООП\labs\LR2\LR2\Images\6029025.JPG</Image>
+    <NeedSize>0</NeedSize>
+  </Jewelry>
+</ArrayOfJewelry>
